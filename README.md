@@ -26,6 +26,15 @@ Analyzed online retail sales data using MySQL to uncover revenue trends, top-sel
 - LIMIT
 - Calculated Columns
 
+## Screenshots
+
 ![Revenue Analysis](revenue_calculation.png)
 
 ![Top Products](top_products.png)
+
+![Country Revenue](country_revenue.png)
+
+![Total Revenue](total_revenue.png)
+
+![Top Customers](top_customers.png)
+
